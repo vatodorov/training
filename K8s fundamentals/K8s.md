@@ -1,8 +1,7 @@
 # Kubernetes
 
 ## Basics of K8s
-- K8s is an orchestration system to deploy and manage containers.
-
+- K8s is an orchestration system to deploy and manage containers
 
 ### Components
 - Powerful API
